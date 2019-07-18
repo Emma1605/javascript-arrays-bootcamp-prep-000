@@ -27,3 +27,4 @@ function destructivelyAddElementToEndOfArray(array, element)
     array.shift(index)
     return array
   }
+  function 
